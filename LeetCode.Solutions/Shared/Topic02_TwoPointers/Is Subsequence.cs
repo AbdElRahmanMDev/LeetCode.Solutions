@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Solutions.Top75.Topic02_TwoPointers
+﻿namespace LeetCode.Solutions.Shared.Topic02_TwoPointers
 {
     internal class Is_Subsequence
     {
