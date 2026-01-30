@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Solutions.Shared.Topic05_HeapPriority_Queue
+﻿namespace LeetCode.Solutions.Shared.Topic06_HeapPriority_Queue
 {
     internal class Last_Stone_Weight
     {

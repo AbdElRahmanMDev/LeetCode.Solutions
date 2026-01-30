@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Solutions.Shared.Topic05_HeapPriority_Queue
+﻿namespace LeetCode.Solutions.Shared.Topic06_HeapPriority_Queue
 {
     internal class Kth_Largest_Element_in_an_Array
     {
