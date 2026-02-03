@@ -26,8 +26,3 @@ The goal of this repository is to track consistent practice, build strong proble
   - Maintainable structure (easy to review later)
 
 ---
-
-## 🧭 Repository Structure (Suggested)
-
-You can follow this structure (or adjust it to match your current folders):
-
