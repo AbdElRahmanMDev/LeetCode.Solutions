@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Solutions.Top75.Topic07_LinkedList
+﻿namespace LeetCode.Solutions.Shared.Topic07_LinkedList
 {
     internal class Merge_Two_Sorted_Lists
     {
