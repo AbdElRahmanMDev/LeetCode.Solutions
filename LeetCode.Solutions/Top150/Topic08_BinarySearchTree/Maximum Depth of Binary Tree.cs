@@ -14,6 +14,7 @@
                 this.right = right;
             }
         }
+        //BFS solution
         public int MaxDepth(TreeNode root)
         {
             Queue<TreeNode> queue = new Queue<TreeNode>();
@@ -36,6 +37,8 @@
             }
             return count;
         }
+
+        //Recursive solution
         public int MaxDepth2(TreeNode root)
         {
             if (root == null)
